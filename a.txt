@@ -1,13 +1,4 @@
-nada a declatar        
-apenas 
-mudanças no projeto 
-abc
-funcionalidade a
-
-alteracao feita no github
-stash
-teste
-de 
-diferença
-diff
-.
+comandos de rotina
+git diff
+git gc
+git fsck
