@@ -3,3 +3,4 @@ git diff
 git gc
 git fsck
 git log
+git tag
