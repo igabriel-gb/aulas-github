@@ -6,3 +6,8 @@ funcionalidade a
 
 alteracao feita no github
 stash
+teste
+de 
+diferença
+diff
+.
