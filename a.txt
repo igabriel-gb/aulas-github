@@ -1,6 +1,8 @@
 comandos de rotina
 git diff
-git gc
+git gc    para otimizar o repo
 git fsck
-git log
+git log     mapear o repo
+git reflog     mapear todos os passos no repo
 git tag
+git archive --fromat zip --output master_files.zip master        comando para zipar, e programarr de maneira remota
