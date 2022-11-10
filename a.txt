@@ -1,7 +1,7 @@
 comandos de rotina
 git diff
 git gc    para otimizar o repo
-git fsck
+git fsck     verifica problemas de corrupções no repo
 git log     mapear o repo
 git reflog     mapear todos os passos no repo
 git tag
