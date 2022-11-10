@@ -2,3 +2,4 @@ comandos de rotina
 git diff
 git gc
 git fsck
+git log
