@@ -1,5 +1,11 @@
+# e-comerce empresa urban
 
+vamos criar um email para a loja
 
-fazendo alterações
+## empresa focada em vendas de roupa 
 
-add arquivos
+marca pripria 
+
+##### loja fisica
+
+matozinhos-mg
