@@ -1,6 +1,6 @@
-# e-comerce empresa urban
+# e-comerce *empresa x* **urban**
 
-vamos criar um email para a loja
+*vamos criar um email para a loja x*
 
 ## empresa focada em vendas de roupa 
 
