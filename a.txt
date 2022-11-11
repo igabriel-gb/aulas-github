@@ -7,3 +7,4 @@ git reflog     mapear todos os passos no repo
 git tag    para ter um save, git tag -a <nome> -m <msg>
 git shortlog   para acompanhar o projeto
 git archive --fromat zip --output master_files.zip master        comando para zipar, e programarr de maneira remota
+asd
